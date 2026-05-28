@@ -1,6 +1,5 @@
 ----------------------------------------------------------------
-   RESTAURANT RESERVATION SYSTEM
-   Laporan Project UAS - Algoritma dan Struktur Data 
+   RESTAURANT RESERVATION SYSTEM - Algoritma dan Struktur Data 
 ----------------------------------------------------------------
 
 ----------------------------------------------------------------
